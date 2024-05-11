@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+cv2
+numpy
+BytesIO
+Image
