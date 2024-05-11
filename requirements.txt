@@ -1,7 +1,7 @@
 streamlit
 pandas
 matplotlib
-cv2
+opencv-python
 numpy
 BytesIO
 Image
