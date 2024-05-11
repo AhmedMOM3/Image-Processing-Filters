@@ -200,7 +200,7 @@ def main():
 
         #LPF
         if selected_filter_type=='LBF':
-            kernal_size=apply(3, 21, 7)    
+            kernal_size=apply(3, 81, 21)    
             lpf_img=lpf(img,kernal_size)
             view_old_new(img,lpf_img)
             lpf_img=cv2.cvtColor(lpf_img,cv2.COLOR_BGR2RGB)
