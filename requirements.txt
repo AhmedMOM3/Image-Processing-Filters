@@ -3,5 +3,3 @@ pandas
 matplotlib
 opencv-python
 numpy
-BytesIO
-Image
